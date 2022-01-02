@@ -129,6 +129,6 @@ button {
   text-align: center;
   display: inline-flex;
 }
-.forecast-details {
+.row {
   padding: 20px;
 }
